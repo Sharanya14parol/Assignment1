@@ -1,0 +1,4 @@
+Invoice for Violation ID: 01
+Type: accident
+Fine: $10000
+Date: 12/11/2024, 7:12:19 pm

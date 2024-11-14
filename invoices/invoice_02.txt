@@ -1,0 +1,4 @@
+Invoice for Violation ID: 02
+Type: illegal parking
+Fine: $5000
+Date: 12/11/2024, 7:12:51 pm

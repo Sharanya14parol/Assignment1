@@ -1,0 +1,4 @@
+Invoice for Violation ID: 03
+Type: signal skip
+Fine: $8000
+Date: 12/11/2024, 7:13:11 pm
